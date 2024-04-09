@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rindi05!
-- 👀 I’m interested in software, Formula One, Apple and technology.
-- 🧑🏽‍🎓 I’m currently learning in BORG Hartberg in Styria, Austria.
-- 🙌🏽 I’m looking to collaborate on programming.
+- 🧑🏽‍🎓 I’m currently studying CS (computer science) at TU Graz in Styria, Austria.
 - 📫 matthias@rinderer.ch
 
 <!---
